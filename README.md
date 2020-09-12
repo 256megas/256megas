@@ -15,4 +15,4 @@ const 256megas = {
     },
 }
 ```
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+⭐️ Idea from [@ashrafkm](https://github.com/ashrafkm)

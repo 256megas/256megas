@@ -7,7 +7,7 @@
 
 ```javascript
 const 256megas = {
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["web dev", "tech"],
     technologies:{
         backEnd: ["PHP"],
         fronEnd: ["angular"],

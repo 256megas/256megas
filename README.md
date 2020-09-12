@@ -3,7 +3,7 @@
 ## I'm Antonio L. 
 ## Full Stack Developer 👨‍💻
 
-### <img src="https://giphy.com/stickers/meme-pop-nyan-mTs11L9uuyGiI" width="50"> A little more about me...  
+### <img src="https://media4.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const 256megas = {

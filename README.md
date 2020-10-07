@@ -11,7 +11,7 @@ const 256megas = {
     technologies:{
         backEnd: ["PHP"],
         fronEnd: ["angular"],
-        database: ["mySql","mongo"],
+        database: ["mySql"],
     },
 }
 ```

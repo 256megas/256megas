@@ -9,7 +9,7 @@
 const 256megas = {
     askMeAbout: ["web dev", "tech"],
     technologies:{
-        backEnd: ["PHP"],
+        backEnd: ["nodeJS"],
         fronEnd: ["angular"],
         database: ["mySql"],
     },

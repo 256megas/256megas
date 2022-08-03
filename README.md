@@ -9,8 +9,8 @@
 const 256megas = {
     askMeAbout: ["web dev", "tech"],
     technologies:{
-        backEnd: ["Laravel"],
-        fronEnd: ["React"],
+        backEnd: ["laravel"],
+        fronEnd: ["react"],
         database: ["mySql"],
     },
 }
